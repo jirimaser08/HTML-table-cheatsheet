@@ -1,0 +1,31 @@
+.tableheaders {
+    font-family:'Courier New', Courier, monospace;
+    background-color: khaki;
+    font-weight: bold;
+    font-size: 32 px;
+    color: black;
+}
+.body {
+    font-family:'Courier New', Courier, monospace;
+    background-color:purple;
+    color: white;
+}
+.head {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 60px;
+}
+.titles {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+}
+.table {
+    border: 3px solid black;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.
